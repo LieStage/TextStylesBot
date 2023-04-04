@@ -1,0 +1,65 @@
+iption": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
+
+    "stack": "container",
+
+    "keywords": [
+
+      "telegram",
+
+      "auto-filter",
+
+      "filter",
+
+      "best",
+
+      "indian",
+
+      "pyrogram",
+
+      "media",
+
+      "search",
+
+      "channel",
+
+      "index",
+
+      "inline"
+
+    ],
+
+    "website": "https://github.com/LieStage/TextStylesBot",
+
+    "repository": "https://github.com/LieStage/TextStylesBot",
+
+    "env": {
+
+            "TOKEN": {
+
+            "description": "Your bot token.",
+
+            "required": true
+
+        }
+ },
+ "addons": [],
+
+    "buildpacks": [{
+
+        "url": "heroku/python"
+
+    }],
+
+    "formation": {
+
+        "worker": {
+
+            "quantity": 1,
+
+            "size": "eco"
+
+        }
+
+    }
+
+}
