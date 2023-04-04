@@ -38,6 +38,15 @@ Get fancy text styles for your Telegram Messages
 
 ---
 
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/LieStage/TextStylesBot">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
 ## Removed due to bugs or unexpected behavior
 
 1. 1000010 1101001 1101110 1100001 1110010 1111001 (Binary)
